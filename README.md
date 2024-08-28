@@ -13,7 +13,7 @@
 
 <h2 align="center">Hi 👋, I'm Anant Kumar</h2>
 <h3 align="center">Upcoming Data Scientist with proficiency in Machine Learning, Deep Learning, NLP, and Large Language Models(LLMs).</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5fb139de12a9bae3bcae6ac878b72d2db412bdf46c00ee33b644d822d9ba1c71/68747470733a2f2f696d617274696375732e6f72672f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72742e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="aj-jaiswal" /> </p>
 
