@@ -23,7 +23,7 @@
 
 - 💬 Ask me about  *Python, Data Science , Machine Learning or Foundation Models*
 
-- 📫 How to reach me **anantkumar1901@gmail.com**
+- 📫 How to reach me **anantjaiswal1901@gmail.com**
 
 ---
 <h3 align="left">Connect with me:</h3>
